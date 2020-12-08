@@ -1,3 +1,9 @@
 [submodule "kabelsalat-lab-sensors"]
 	path = kabelsalat-lab-sensors
 	url = https://github.com/j-h-f/kabelsalat-lab-sensors.git
+[submodule "kabelsalat-lab-frontend"]
+	path = kabelsalat-lab-frontend
+	url = https://github.com/j-h-f/kabelsalat-lab-frontend.git
+[submodule "kabelsalat-lab-backend"]
+	path = kabelsalat-lab-backend
+	url = https://github.com/j-h-f/kabelsalat-lab-backend.git
