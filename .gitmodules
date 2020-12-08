@@ -1,0 +1,3 @@
+[submodule "kabelsalat-lab-sensors"]
+	path = kabelsalat-lab-sensors
+	url = https://github.com/j-h-f/kabelsalat-lab-sensors.git
